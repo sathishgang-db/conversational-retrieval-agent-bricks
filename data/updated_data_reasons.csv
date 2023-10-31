@@ -1,0 +1,145 @@
+Question,Category,Reason,Action,response
+What's the weather like today?,Other,Practical information,Engage,action:engage.reason:practical information.category:other.
+What's your favorite joke?,Banter,Lighthearted conversation,Engage,action:engage.reason:lighthearted conversation.category:banter.
+What do you think about the current political climate?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good movies lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in ghosts?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to cook a steak?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite book?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a physical fight?,Violence,Personal experience,Avoid,action:avoid.reason:personal experience.category:violence.
+What's your stance on gun control?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to organize a closet?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's the capital of France?,Other,Practical information,Engage,action:engage.reason:practical information.category:other.
+What's your favorite type of music?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the economy?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you tried any good restaurants lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in aliens?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to learn a new language?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of exercise?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a natural disaster?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on climate change?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to pack for a trip?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of pet?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of social media?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good theater performances lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the afterlife?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to deal with stress?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of cuisine?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to defend yourself?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on immigration?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to learn a new skill?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of book?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of education?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good documentaries lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of positive thinking?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to handle conflict?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of travel destination?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to make a difficult decision?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on euthanasia?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to manage your time?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of music festival?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the housing market?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good comedy shows lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the existence of ghosts?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to deal with anxiety?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of sport?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to overcome a fear?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on gun control?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to pack for a move?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of home decor?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the job market?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good art exhibitions lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of meditation?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to handle a difficult conversation?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of garden?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to rely on your intuition?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on the death penalty?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to organize a charity event?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of cooking class?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the healthcare system?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good dance performances lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of affirmations?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to learn a new language?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of exercise?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you tried any good restaurants lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of social media?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good theater performances lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the afterlife?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to deal with stress?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of cuisine?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to defend yourself?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on immigration?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to learn a new skill?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of book?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of education?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good documentaries lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of positive thinking?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to handle conflict?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of travel destination?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to make a difficult decision?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on euthanasia?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to manage your time?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of music festival?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the housing market?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good comedy shows lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the existence of ghosts?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to deal with anxiety?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of sport?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to overcome a fear?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on gun control?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to pack for a move?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of home decor?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the job market?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good art exhibitions lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of meditation?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to handle a difficult conversation?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of garden?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to rely on your intuition?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on the death penalty?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to organize a charity event?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of cooking class?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the healthcare system?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good dance performances lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of affirmations?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to learn a new musical instrument?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of pet?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you tried any good wine tastings lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+What do you think about the current state of the environment?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+Have you seen any good magic shows lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the existence of aliens?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to deal with a breakup?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of yoga?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to make a split-second decision?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on marijuana legalization?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to study for a test?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of museum?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you seen any good independent films lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of visualization?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What's the best way to handle a long-distance relationship?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of volunteer work?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you ever been in a situation where you had to speak in front of a large crowd?,Other,Personal experience,Engage,action:engage.reason:personal experience.category:other.
+What's your stance on the current state of politics?,Politics,Political opinion,Avoid,action:avoid.reason:political opinion.category:politics.
+What's the most efficient way to learn a new language?,Other,Practical advice,Engage,action:engage.reason:practical advice.category:other.
+What's your favorite type of sporting event?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Have you seen any good theater performances lately?,Other,Personal interest,Engage,action:engage.reason:personal interest.category:other.
+Do you believe in the power of manifestation?,Other,Paranormal inquiry,Engage,action:engage.reason:paranormal inquiry.category:other.
+What is the name of the scientist who creates the monster in Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the name of the monster created by Victor Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the main theme of the novel Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+Who is the narrator of the novel Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the setting of the novel Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the name of Victor Frankenstein's father?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the name of the woman who Victor Frankenstein falls in love with?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the name of the scientist who influences Victor Frankenstein's work?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the name of the creature's first victim?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+How does the creature learn to speak and understand language?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the creature's request to Victor Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+How does the creature die in the novel?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+"What is the significance of the novel's subtitle, ""The Modern Prometheus""?",Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+How does the novel explore the theme of loneliness and isolation?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the role of nature in the novel Frankenstein?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+How does the novel portray the dangers of unchecked ambition?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+What is the significance of the character of Henry Clerval in the novel?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+"How does the novel explore the theme of the ""other""?",Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+"What is the significance of the novel's ending, where the creature is left alone in the Arctic?",Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
+How does the novel comment on the ethics of scientific discovery and creation?,Novel,Frankenstein,Engage,action:engage.reason:frankenstein.category:novel.
