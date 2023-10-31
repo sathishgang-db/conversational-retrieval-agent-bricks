@@ -3,14 +3,16 @@
 This repository provides a set of Python scripts that demonstrate the capabilities, deployment, and fine-tuning of a conversational retrieval agent on Databricks, as presented in the Phoenix Databricks User Group.
 The example here assumes that you're a fictitious start up building CRAG - as a book companion for Frankenstein.
 
+This work is based on this blog --> https://blog.langchain.dev/conversational-retrieval-agents/
+
 ## Installation
 
 To set up the necessary environment:
 
 1. Clone the repository into Databricks repos:
    ```bash
-   git clone https://github.com/your-username/conversational-retrieval-agent.git
-   cd conversational-retrieval-agent
+   git clone https://github.com/your-username/conversational-retrieval-agent-bricks.git
+   cd conversational-retrieval-agent-bricks
 
 ## Scripts Overview
 
