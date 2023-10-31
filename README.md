@@ -1,7 +1,7 @@
 # conversational-retrieval-agent-bricks
 
-This repository provides a set of Python scripts that demonstrate the capabilities, deployment, and fine-tuning of a conversational retrieval agent on Databricks, as presented in the Phoenix Databricks User Group.
-The example here assumes that you're a fictitious start up building CRAG - as a book companion for Frankenstein.
+This repository provides a set of Python scripts that demonstrate the process of creating tools and agents, specificially, conversational retrieval agent (CRAG) on Databricks, as presented in the Phoenix Databricks User Group. 
+The idea is to show how one can equip Databricks endpoints as tools that an agent can use when answering user queries. The example here assumes that you're a fictitious start up building a CRAG - as a book companion for Frankenstein.
 
 This is based on this blog --> https://blog.langchain.dev/conversational-retrieval-agents/
 
